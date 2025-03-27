@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/houseka/static/css/main.b53ca58a.css",
-    "main.js": "/houseka/static/js/main.cfc3773c.js",
+    "main.js": "/houseka/static/js/main.ffc277e8.js",
     "static/js/453.37d73f93.chunk.js": "/houseka/static/js/453.37d73f93.chunk.js",
     "static/media/pexels-aadil-2884867.jpg": "/houseka/static/media/pexels-aadil-2884867.6bd7b3503dd89b45151b.jpg",
     "static/media/resid_construction.jpg": "/houseka/static/media/resid_construction.35ffec42597cacacf67f.jpg",
@@ -55,13 +55,14 @@
     "static/media/WhatsApp Image 2025-03-19 at 9.40.16 PM.jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.40.16 PM.ea228144fd0d879a67f2.jpeg",
     "static/media/WhatsApp Image 2025-03-19 at 9.40.17 PM (1).jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.40.17 PM (1).8966534d54be620ce4a2.jpeg",
     "static/media/WhatsApp Image 2025-03-19 at 9.40.18 PM.jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.40.18 PM.ede93ce7102a5d3ff3e0.jpeg",
+    "static/media/housekaar_logo.jpeg": "/houseka/static/media/housekaar_logo.0438311c1b4ca42e0f48.jpeg",
     "index.html": "/houseka/index.html",
     "main.b53ca58a.css.map": "/houseka/static/css/main.b53ca58a.css.map",
-    "main.cfc3773c.js.map": "/houseka/static/js/main.cfc3773c.js.map",
+    "main.ffc277e8.js.map": "/houseka/static/js/main.ffc277e8.js.map",
     "453.37d73f93.chunk.js.map": "/houseka/static/js/453.37d73f93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b53ca58a.css",
-    "static/js/main.cfc3773c.js"
+    "static/js/main.ffc277e8.js"
   ]
 }
