@@ -1,24 +1,18 @@
 {
   "files": {
-    "main.css": "/houseka/static/css/main.553718d5.css",
-    "main.js": "/houseka/static/js/main.563ec002.js",
+    "main.css": "/houseka/static/css/main.79ff2ee1.css",
+    "main.js": "/houseka/static/js/main.722c65a0.js",
     "static/js/453.37d73f93.chunk.js": "/houseka/static/js/453.37d73f93.chunk.js",
     "static/media/dinning_area.png": "/houseka/static/media/dinning_area.01729f6d72cd3bef6ae1.png",
     "static/media/samll_room_office_type.png": "/houseka/static/media/samll_room_office_type.243cf64288e3345f1424.png",
-    "static/media/pexels-aadil-2884867.jpg": "/houseka/static/media/pexels-aadil-2884867.6bd7b3503dd89b45151b.jpg",
     "static/media/up_bedromm.png": "/houseka/static/media/up_bedromm.b64e5e4397981949276c.png",
     "static/media/resid_construction.jpg": "/houseka/static/media/resid_construction.35ffec42597cacacf67f.jpg",
-    "static/media/pexels-heyho-8143707.jpg": "/houseka/static/media/pexels-heyho-8143707.1355a851913ef197d9b3.jpg",
     "static/media/kitchen_modern_classic.png": "/houseka/static/media/kitchen_modern_classic.9b526476f59a23445517.png",
     "static/media/living_room_better.png": "/houseka/static/media/living_room_better.48c12a546121c594832e.png",
-    "static/media/pexels-falling4utah-1080696.jpg": "/houseka/static/media/pexels-falling4utah-1080696.3ced0df5d5e9bdd26395.jpg",
-    "static/media/pexels-pavel-danilyuk-7937323.jpg": "/houseka/static/media/pexels-pavel-danilyuk-7937323.e1e2bb687c9df8b3ddeb.jpg",
-    "static/media/pexels-pixabay-221506.jpg": "/houseka/static/media/pexels-pixabay-221506.abe966912bd1f0e8deda.jpg",
     "static/media/pexels-jonathanborba-3316924.jpg": "/houseka/static/media/pexels-jonathanborba-3316924.fb2e28c764ed419aff32.jpg",
     "static/media/pexels-jonathanborba-5563472.jpg": "/houseka/static/media/pexels-jonathanborba-5563472.6b4843cbac15467aefc9.jpg",
     "static/media/pexels-itsterrymag-2635038.jpg": "/houseka/static/media/pexels-itsterrymag-2635038.ff8550c8056c95613df3.jpg",
     "static/media/pexels-b3stography-913753.jpg": "/houseka/static/media/pexels-b3stography-913753.27a0eee91db45263cff0.jpg",
-    "static/media/pexels-rdne-6806443.jpg": "/houseka/static/media/pexels-rdne-6806443.1952d4f05002c2faf8d9.jpg",
     "static/media/pexels-rajreetasen-1684724.jpg": "/houseka/static/media/pexels-rajreetasen-1684724.27ba32ddeebfbf31cb0c.jpg",
     "static/media/pexels-pixabay-221537.jpg": "/houseka/static/media/pexels-pixabay-221537.a206856d786383547422.jpg",
     "static/media/pexels-ekaterina-bolovtsova-7307714.jpg": "/houseka/static/media/pexels-ekaterina-bolovtsova-7307714.bbc2e3b4ab3d334876c4.jpg",
@@ -36,6 +30,8 @@
     "static/media/houseplan.jpg": "/houseka/static/media/houseplan.bd1201c41404c1ef765f.jpg",
     "static/media/WhatsApp Image 2025-03-19 at 9.32.45 PM.jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.32.45 PM.9b0df8f9477ad8499894.jpeg",
     "static/media/floor_plan1.jpg": "/houseka/static/media/floor_plan1.de96bb61e79848f1a092.jpg",
+    "static/media/project_2.jpg": "/houseka/static/media/project_2.7f715a83a6b9311c6b0f.jpg",
+    "static/media/project_3.jpg": "/houseka/static/media/project_3.8eb9efc015c9e872ad31.jpg",
     "static/media/pexels-jakubzerdzicki-30332467.jpg": "/houseka/static/media/pexels-jakubzerdzicki-30332467.8e1cf3c79dce2672ce0f.jpg",
     "static/media/WhatsApp Image 2025-03-19 at 9.35.21 PM.jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.35.21 PM.930fd791977cfc497726.jpeg",
     "static/media/pexels-mo-eid-1268975-8657160.jpg": "/houseka/static/media/pexels-mo-eid-1268975-8657160.b1a0395020db6c94b260.jpg",
@@ -63,12 +59,12 @@
     "static/media/WhatsApp Image 2025-03-19 at 9.40.18 PM.jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.40.18 PM.ede93ce7102a5d3ff3e0.jpeg",
     "static/media/housekaar_logo.jpeg": "/houseka/static/media/housekaar_logo.0438311c1b4ca42e0f48.jpeg",
     "index.html": "/houseka/index.html",
-    "main.553718d5.css.map": "/houseka/static/css/main.553718d5.css.map",
-    "main.563ec002.js.map": "/houseka/static/js/main.563ec002.js.map",
+    "main.79ff2ee1.css.map": "/houseka/static/css/main.79ff2ee1.css.map",
+    "main.722c65a0.js.map": "/houseka/static/js/main.722c65a0.js.map",
     "453.37d73f93.chunk.js.map": "/houseka/static/js/453.37d73f93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.553718d5.css",
-    "static/js/main.563ec002.js"
+    "static/css/main.79ff2ee1.css",
+    "static/js/main.722c65a0.js"
   ]
 }
