@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/houseka/static/css/main.79ff2ee1.css",
-    "main.js": "/houseka/static/js/main.722c65a0.js",
+    "main.css": "/houseka/static/css/main.556c4fef.css",
+    "main.js": "/houseka/static/js/main.69e32c1c.js",
     "static/js/453.37d73f93.chunk.js": "/houseka/static/js/453.37d73f93.chunk.js",
     "static/media/dinning_area.png": "/houseka/static/media/dinning_area.01729f6d72cd3bef6ae1.png",
     "static/media/samll_room_office_type.png": "/houseka/static/media/samll_room_office_type.243cf64288e3345f1424.png",
@@ -20,7 +20,6 @@
     "static/media/pexels-expect-best-79873-323780.jpg": "/houseka/static/media/pexels-expect-best-79873-323780.081bdeb6bfdddf410934.jpg",
     "static/media/pexels-ivan-samkov-4458202.jpg": "/houseka/static/media/pexels-ivan-samkov-4458202.68a697ec0e7376185a6b.jpg",
     "static/media/exterior.jpg": "/houseka/static/media/exterior.89786aca96eade270438.jpg",
-    "static/media/crazy_tower.jpg": "/houseka/static/media/crazy_tower.38418e5784f86c03fa0b.jpg",
     "static/media/pexels-atbo-66986-245240.jpg": "/houseka/static/media/pexels-atbo-66986-245240.146af48c526ce257d350.jpg",
     "static/media/interior.jpg": "/houseka/static/media/interior.2298c2e97696f749d6c2.jpg",
     "static/media/bathroom_top.jpg": "/houseka/static/media/bathroom_top.72a3f0c9af109130c40e.jpg",
@@ -59,12 +58,12 @@
     "static/media/WhatsApp Image 2025-03-19 at 9.40.18 PM.jpeg": "/houseka/static/media/WhatsApp Image 2025-03-19 at 9.40.18 PM.ede93ce7102a5d3ff3e0.jpeg",
     "static/media/housekaar_logo.jpeg": "/houseka/static/media/housekaar_logo.0438311c1b4ca42e0f48.jpeg",
     "index.html": "/houseka/index.html",
-    "main.79ff2ee1.css.map": "/houseka/static/css/main.79ff2ee1.css.map",
-    "main.722c65a0.js.map": "/houseka/static/js/main.722c65a0.js.map",
+    "main.556c4fef.css.map": "/houseka/static/css/main.556c4fef.css.map",
+    "main.69e32c1c.js.map": "/houseka/static/js/main.69e32c1c.js.map",
     "453.37d73f93.chunk.js.map": "/houseka/static/js/453.37d73f93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79ff2ee1.css",
-    "static/js/main.722c65a0.js"
+    "static/css/main.556c4fef.css",
+    "static/js/main.69e32c1c.js"
   ]
 }
