@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/houseka/static/css/main.8d0bd3a7.css",
-    "main.js": "/houseka/static/js/main.7365b694.js",
+    "main.css": "/houseka/static/css/main.1083076f.css",
+    "main.js": "/houseka/static/js/main.1af4b783.js",
     "static/js/453.37d73f93.chunk.js": "/houseka/static/js/453.37d73f93.chunk.js",
     "static/media/dinning_area.png": "/houseka/static/media/dinning_area.01729f6d72cd3bef6ae1.png",
     "static/media/samll_room_office_type.png": "/houseka/static/media/samll_room_office_type.243cf64288e3345f1424.png",
@@ -90,12 +90,12 @@
     "static/media/kitchen_img_4.jpeg": "/houseka/static/media/kitchen_img_4.ede93ce7102a5d3ff3e0.jpeg",
     "static/media/housekaar_logo.jpeg": "/houseka/static/media/housekaar_logo.0438311c1b4ca42e0f48.jpeg",
     "index.html": "/houseka/index.html",
-    "main.8d0bd3a7.css.map": "/houseka/static/css/main.8d0bd3a7.css.map",
-    "main.7365b694.js.map": "/houseka/static/js/main.7365b694.js.map",
+    "main.1083076f.css.map": "/houseka/static/css/main.1083076f.css.map",
+    "main.1af4b783.js.map": "/houseka/static/js/main.1af4b783.js.map",
     "453.37d73f93.chunk.js.map": "/houseka/static/js/453.37d73f93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d0bd3a7.css",
-    "static/js/main.7365b694.js"
+    "static/css/main.1083076f.css",
+    "static/js/main.1af4b783.js"
   ]
 }
